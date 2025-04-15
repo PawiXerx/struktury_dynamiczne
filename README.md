@@ -82,8 +82,6 @@ Jedyne, które używają LIFO, to firmy wysyłkowe z ogromnymi magazynami.
 ### Operacje na liście:
 
 - Dodanie elementu na początek/koniec listy
-- Usunięcie elementu
-- Wyszukiwanie elementu
 - Iteracja po wszystkich elementach
 
 ```python
