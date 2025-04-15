@@ -82,7 +82,6 @@ Jedyne, które używają LIFO, to firmy wysyłkowe z ogromnymi magazynami.
 ### Operacje na liście:
 
 - Dodanie elementu na początek/koniec listy
-- Iteracja po wszystkich elementach
 
 ```python
 class Wezel:
